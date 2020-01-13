@@ -1,0 +1,6 @@
+n=float(input())
+x=float(input())
+z=float(input())
+d=(n*(x/100))
+c=(n*(z/100))
+print(round(n+d+c))
